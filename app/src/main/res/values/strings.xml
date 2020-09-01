@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tour Guid App</string>
+    <string name="main_title">Tour Guide - Krasnodar</string>
+    <string name="cairo_city">Cairo</string>
+    <string name="alex_city">Alex</string>
+    <string name="matroh_city">Matrouh</string>
+</resources>
